@@ -4,7 +4,7 @@ let inputElement = document.querySelector('.cityName');
 const url = 'https://open-weather13.p.rapidapi.com/city/';
 const options= {
     headers: {
-        'X-RapidAPI-Key': process.env.RAPIDAPI_KEY,
+        'X-RapidAPI-Key': "696612859emsh8e7421e1edd43bfp13b986jsn400abb13e72b",
         'X-RapidAPI-Host': 'open-weather13.p.rapidapi.com'
     }
 };
